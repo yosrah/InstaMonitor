@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">InstaMonitor</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_features">FeaturesActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="ignore_time">Ignore Time Spent here</string>
+    <string name="clear_sessions">Clear Sessions</string>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string name="feature_fragment">feature fragment</string>
+
+    <string name="features">Features</string>
+    <string name="reviews">Reviews</string>
+    <string name="statistics">Statistics</string>
+
+    <string name="total_app_time">Total app time : </string>
+    <string name="sessions_cleared">All sessions have been cleared !</string>
+
+    <string name="empty_sessions">Oh no! \n\n Keep enjoying the app and come back for more stats</string>
+
+
+    <string name="what_people_are_saying">What are people saying about Instabug ?</string>
+    <string name="find_instabug">Can you help us find Instabug?</string>
+    <string name="instabug_features">What makes Instabug cool !</string>
+
+    <string name="tilt_review"> Instabug worked flawlessly after integrating it, and even better after linking it with JIRA. This turned out to be great for us as we can now rely on our own team as we grow instead of relying on a 3rd party testing team. </string>
+    <string name="tilt_reviewer">Software Engineer at Tilt</string>
+
+    <string name="nextdoor_review">The easy shake-for-feedback has meant that all our dogfooders feel comfortable filing bugs. And best of all with screenshots, annotations, and descriptions the bug reports that we\'re getting are consistently high quality and actionable. </string>
+    <string name="nextdoor_reviewer">PM at Nextdoor</string>
+
+    <string name="lyft_review">Instabug makes it easier for our beta testers to quickly send feedback directly from within the app, helping us identify and fix critical issues in an easy-to-use testing environment. We also love that their customer service team is quick to respond to our requests. </string>
+    <string name="lyft_reviewer">Beta Program Manager at Lyft</string>
+
+    <string name="yahoo_review">As soon as we integrated the SDK and saw our first bug report we knew that we\'d made the right choice. It was just so easy and seamless! Now we have instant feedback from our users, which is greatly accelerating product development.</string>
+    <string name="yahoo_reviewer">Mobile App PM at Yahoo</string>
+
+
+    <string name="in_app_support">In-App Support</string>
+    <string name="in_app_bug_reporter">In-App Bug Reporter</string>
+    <string name="live_convo">Live Conversation</string>
+
+
+    <string name="feature_title_in_app_support">In-App Support Channel</string>
+    <string name="feature_desc_in_app_support">Don\'t interrupt your users\' experience and make them quit your app to talk to you through emails or Twitter. With Instabug, everything is done directly from within your app with minimal effort for your users.</string>
+
+    <string name="feature_title_in_app_bug">In-App Bug Reporter</string>
+    <string name="feature_desc_in_app_bug">With each bug report, we automatically capture a screenshot that your users can draw on. Also, your users can attach multiple screenshots or even record their feedback as a voice note.</string>
+
+    <string name="feature_title_live_convo">Live Conversation Inside Your App</string>
+    <string name="feature_desc_live_convo">There\'s a better way to provide exceptional support other than email. Use Instabug to start chatting with your users inside your app. Answer their questions, update them on new features and be closer to them!</string>
+
+
+    <string name="wheres_instabug">Where is Instabug ?</string>
+    <string name="you_found_me">You found me !</string>
+
+    <string name="about_instamonitor">About InstaMonitor</string>
+    <string name="about">IstaMonitor is an API that provides \n\n Period of time for which the application was open\nPeriod of time spent on each Activity\nPeriod of time spent on each Fragment\nIncludes reset option to delete all saved stats\nInclude ignore(Activity) to ignore specific activities from tracking\nUses local storage to store the results across application sessions</string>
+</resources>
